@@ -1,0 +1,26 @@
+1)
+12
+
+2)
+
+{ "company" : "AbbVie Inc.", "percentage_of_side_effects" : 26 }
+{ "company" : "AkPharma Inc", "percentage_of_side_effects" : 15 }
+{ "company" : "AbbVie Inc.", "percentage_of_side_effects" : 13 }
+{ "company" : "AbbVie Inc.", "percentage_of_side_effects" : 13 }
+{ "company" : "AbbVie Inc.", "percentage_of_side_effects" : 13 }
+{ "company" : "AbbVie Inc.", "percentage_of_side_effects" : 13 }
+{ "company" : "Durata Therapeutics, Inc.", "percentage_of_side_effects" : 13 }
+{ "company" : "Durata Therapeutics, Inc.", "percentage_of_side_effects" : 13 }
+{ "company" : "Durata Therapeutics, Inc.", "percentage_of_side_effects" : 13 }
+{ "company" : "AbbVie Inc.", "percentage_of_side_effects" : 13 }
+{ "company" : "Alliance Pharma plc", "percentage_of_side_effects" : 13 }
+{ "company" : "Watson Pharmaceuticals, Inc.", "percentage_of_side_effects" : 13 }
+{ "company" : "AbbVie Inc.", "percentage_of_side_effects" : 12 }
+{ "company" : "Durata Therapeutics, Inc.", "percentage_of_side_effects" : 12 }
+{ "company" : "Durata Therapeutics, Inc.", "percentage_of_side_effects" : 12 }
+{ "company" : "Durata Therapeutics, Inc.", "percentage_of_side_effects" : 12 }
+{ "company" : "Biogen", "percentage_of_side_effects" : 12 }
+{ "company" : "Graceway Pharmaceuticals, LLC", "percentage_of_side_effects" : 12 }
+{ "company" : "Global Pharmaceuticals", "percentage_of_side_effects" : 12 }
+{ "company" : "Morton Grove Pharmaceuticals, Inc.", "percentage_of_side_effects" : 12 }
+Type "it" for more
