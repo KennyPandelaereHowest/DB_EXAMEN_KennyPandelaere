@@ -1,0 +1,19 @@
+UNF(verzameling van alle gegevens)
+DB(staffNo, dentistName, patientNo, patientName, apptDate, apptTime, surgeryNo)
+
+1NF(ieder item is atomair en wordt niet herhaald; apparte groepen)
+dentist(staffNo, dentistName)
+patient(patientNo, patientName, surgeryNo)
+appt(apptDate, apptTime)
+
+2NF(niet-sleutel items zijn afhankelijk van primaire sleutel)
+dentist(staffNo, dentistName)
+patient(patientNo, patientName, surgeryNo, staffNo)
+appt(apptDate, apptTime, surgeryNo)
+
+3NF (alle items die niet tot een sleutel behoren, hangen ook niet af van een niet-sleutel
+dentist(staffNo, dentistName)
+patient(patientNo, patientName, surgeryNo)
+surgery(surgeryNo, staffNo)
+appt(apptDate, apptTime, surgeryNo)
+
