@@ -1,0 +1,15 @@
+vraag 1:
+select gene_name, sum(seq_region_end - seq_region_start +1) as lengte_gen
+from gene
+order by lengte_gen 
+limit 1
+
+
+vraag2:
+select count(transcript.gene_id) as aantal, gene_name
+from transcript
+join gene on gene.gene_id = transcript.gene_id
+group by transcript.gene_id
+order by aantal desc
+limit 1, 1
+
